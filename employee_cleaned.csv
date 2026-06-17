@@ -1,0 +1,5 @@
+Employee_ID,Name,Age,Gender,Department,Salary,Experience
+101,Rahul,25.0,Male,IT,50000.0,2.0
+102,Priya,28.0,Female,HR,45000.0,3.0
+103,Arun,28.125,Male,IT,55000.0,4.0
+104,Sneha,26.0,Female,IT,48000.0,2.0
